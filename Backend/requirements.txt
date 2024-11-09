@@ -1,0 +1,12 @@
+livekit
+livekit-agents
+livekit-plugins-deepgram
+livekit-plugins-openai
+livekit-plugins-elevenlabs
+livekit-plugins-silero
+livekit-plugins-llama-index
+requests
+llama_index
+llama_index.embeddings.huggingface
+# python"name of file".py download-files to download all necessarsy files such as model weights for silero VAD
+# python "name of file".py start -> to start the program
